@@ -1,2 +1,2 @@
-# Data Compression
-Huffman coding is used here for implementing the Data Compression.
+# Information Processing and Compression
+Implemnetation of Huffman coding for effieicent data compression.
